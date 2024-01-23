@@ -1,21 +1,220 @@
-* {
-  font-family: Arial, Helvetica, sans-serif;
+body{
+
+    font-size: medium;
+
+    background-color:rgb(33, 85, 105);
+
 }
 
-html, body {
-  margin: 0;
-  border: 0;
-  padding: 0;
-  background-color: #fff;
+.ul{
+
+    color: white;
+
+    background-color:#717171;
+
 }
 
-main {
-  margin: auto;
-  width: 50%;
-  padding: 20px;
+h1{
+
+    color: rgb(145, 24, 125);
+
 }
 
-main > h1 {
-  text-align: center;
-  font-size: 3.5em;
+p{
+
+    color:white
+
 }
+
+
+
+body{
+
+    background:#0b4668;
+
+    margin:0;
+
+}
+
+.menu{
+
+    width:100%;
+
+    background:#142b47;
+
+    overflow:auto;
+
+}
+
+
+
+.menu ul {
+
+    margin:0;
+
+    padding:0;
+
+    list-style :none;
+
+    line-height:40px;
+
+}
+
+.menu li{
+
+    float:left;
+
+}
+
+.menu li a:hover{
+
+    color:#fff;
+
+    opacity:0.5;
+
+    font-size:19px;
+
+
+
+}
+
+.menu ul li a{
+
+    background:#142b47;
+
+    text-align:center;
+
+    color:#f2f2f2;
+
+    font-size:18px;
+
+    font-family:sana-sefir;
+
+    letter-spacing:0.5px;
+
+}
+
+.slick-side img {
+
+    display: block;
+
+}
+
+
+
+.signin .btn-main.btn {
+
+    background: #2b3749 0% 0% no-repeat padding-box;
+
+    border-radius: 4px;
+
+    border: none;
+
+    font: normal normal normal 16px/19px 'Lato';
+
+    letter-spacing: 0px;
+
+    color: #ffffff;
+
+    margin-bottom: 20px;
+
+}
+
+
+
+.search-form{
+
+    margin: top 15px;
+
+    float:right;
+
+    margin-right:20px;
+
+}
+
+input[type=text] {
+
+    padding:8px;
+
+    border:black;
+
+    font: size 20px;
+
+    font-family:sans-serif;
+
+
+
+}
+
+button{
+
+    float:right;
+
+    background:orange;
+
+    color:white;
+
+    border-radius : 0 5px 5px 0;
+
+    cursor:pointer;
+
+    position:7px;
+
+    font-family:sana-serif;
+
+    border:none;
+
+    font-size:25px;
+
+}
+
+footer{
+
+    
+
+    float:left;
+
+    position: 40px;
+
+    
+
+}
+
+h2{
+
+    float:left;
+
+    position:7px;
+
+    font-family:sana-serif;
+
+    border:none;
+
+    font-size:35px;
+
+}
+
+textarea
+
+{
+
+    float:left;
+
+    position:7px;
+
+    font-family:sana-serif;
+
+    border:none;
+
+    font-size:30px;
+
+}
+
+.about
+
+{
+
+    background-color: black;
+
+}
+

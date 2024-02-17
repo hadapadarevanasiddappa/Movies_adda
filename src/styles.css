@@ -246,12 +246,13 @@ textarea
     
   background-color: #333;
   overflow: auto;
+  display:flex;
   white-space: nowrap;
   padding: 10px;
     }
   
 
-.movie{
+div.movie{
     display:flex;
     padding:8px;
    } 

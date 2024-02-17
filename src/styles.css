@@ -241,9 +241,11 @@ textarea
 
 .sliding{
     display:flex;
+    background-color:#353839;
 }
 .movie{
     display:flex;
+    padding:8px;
    } 
 
 

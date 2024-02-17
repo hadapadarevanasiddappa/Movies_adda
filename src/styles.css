@@ -238,7 +238,12 @@ textarea
   color: white;
 }
 
-
+.sliding{
+    display:flex;
+}
+.movie{
+    display:flex;
+   } 
 
 
 

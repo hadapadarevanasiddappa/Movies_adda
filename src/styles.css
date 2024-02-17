@@ -253,7 +253,9 @@ textarea
   
 
 div.movie{
-  position: absolute;
+  display:flex;
+  padding:8px;
+text-align:center;
   
   
    } 
@@ -261,7 +263,7 @@ div.movie{
 
 div.desc {
   padding: 15px;
-  
+  text-align:bottom;
 }
 
 

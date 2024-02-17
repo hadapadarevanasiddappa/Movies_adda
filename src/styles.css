@@ -3,6 +3,9 @@ body{
     font-size: medium;
 
     background-color:rgb(33, 85, 105);
+    background:#0b4668;
+
+    margin:10;
 
 }
 
@@ -28,13 +31,6 @@ p{
 
 
 
-body{
-
-    background:#0b4668;
-
-    margin:0;
-
-}
 
 .menu{
 

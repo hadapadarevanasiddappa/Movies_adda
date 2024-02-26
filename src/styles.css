@@ -1,6 +1,7 @@
-body{
+@media (max-width: 480px) {
+  body{
 
-    font-size: medium;
+    font-size: 16px;
 
     background-color:rgb(33, 85, 105);
     background:#0b4668;
@@ -12,7 +13,7 @@ body{
     
 
 }
-
+}
 .ul{
 
     color: white;

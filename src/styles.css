@@ -166,7 +166,6 @@ textarea
   background-color: #333;
   overflow: auto;
   display:flex;
-  flex-wrap:wrap;
   white-space: nowrap;
   padding: 10px;
     }
@@ -182,8 +181,6 @@ div.movie{
 
 div.desc {
   padding: 0px;
-  flex-grow:1;
-  flex-basic:200;
   background-color:#232b2b;
   text-align:bottom;
 }

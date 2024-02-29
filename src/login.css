@@ -1,0 +1,104 @@
+head{
+    background-color:#C292DE ;
+}
+input[type=text] {
+    padding:8px;
+    border:black;
+    font: size 18px;
+    font-family:sans-serif;
+
+}
+body {
+    margin:20px;
+    font-family:"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+    background-color: #C293DE;
+}
+
+div {
+    text-align:center
+}
+
+
+
+#header {
+    border-bottom:0px solid #000;
+    height:30px;
+    line-height:30px
+}
+
+/* Begin Navigation Bar Styling */
+#nav {
+    text-align:center;
+    line-height: 30px;
+}
+
+#nav ul {
+    text-align:center;
+    font-size:11px;
+    width:100%;
+    margin:0;
+    padding:0;
+    display:inline-block;
+    list-style:none;
+    background-color:#f2f2f2;
+    border-bottom:1px solid #ccc;
+    border-top:1px solid #ccc
+}
+
+#nav li {
+    margin:auto;
+    display:inline-block
+}
+
+#nav li a {
+    display:block;
+    padding:8px 15px;
+    text-decoration:none;
+    font-weight:700;
+    color:#069;
+    border-right:1px solid #ccc
+}
+
+#nav li a:hover {
+    color:#c00;
+    background-color:#fff
+}
+
+/* End navigation bar styling. */
+
+#content {
+    height: 200px;
+    width:100%;
+    display: table;
+    background:none repeat scroll 0 0 none;
+}
+
+#content p {
+display: table-cell;
+vertical-align: middle;
+}
+
+#footer {
+    height:30px;
+    line-height:30px;
+    border-top: 1px solid #000;
+    font-size:9pt
+}
+
+#footer p {
+float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+h2 {
+    color:#b106db ;
+    background-position-x: center;
+    columns: centre;
+    
+}
+button{
+    color: black;
+}

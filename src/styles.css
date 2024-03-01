@@ -98,7 +98,7 @@ input[type=text] {
 
 button{
   
-    float:center;
+    float:right;
     background:orange;
     color:white;
     border-radius : 0 5px 5px 0;

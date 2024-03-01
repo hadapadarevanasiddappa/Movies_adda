@@ -71,6 +71,19 @@ p{
     display: block;
 
 }
+.button_login{
+  font-family:sana-serif;
+  text-align:right;
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+}
+
+.button_login:hover {
+  background-color: #008CBA;
+  color: white;
+
+}
 .signin .btn-main.btn {
     background: #2b3749 0% 0% no-repeat padding-box;
     border-radius: 4px;
@@ -158,19 +171,7 @@ textarea
           transition-duration: 0.4s;
   cursor: pointer;
 }
-.button_login{
-  font-family:sana-serif;
-  text-align:right;
-  background-color: white; 
-  color: black; 
-  border: 2px solid #008CBA;
-}
 
-.button_login:hover {
-  background-color: #008CBA;
-  color: white;
-
-}
     
   div.sliding {
     
